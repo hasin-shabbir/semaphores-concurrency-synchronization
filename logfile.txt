@@ -1,0 +1,38 @@
+Saladmaker1 started waiting at time: 1.125806
+Saladmaker3 started waiting at time: 2.277746
+Saladmaker2 started waiting at time: 3.546341
+Saladmaker2 ended waiting at time: 3.548411
+Saladmaker2 started making salad at time: 3.554480
+Saladmaker1 ended waiting at time: 3.559149
+Saladmaker1 started making salad at time: 3.561494
+Saladmaker3 ended waiting at time: 3.564661
+Saladmaker3 started making salad at time: 3.566816
+Saladmaker2 ended making salad at time: 4.558576
+Saladmaker2 started waiting at time: 4.565006
+Saladmaker1 ended making salad at time: 5.565463
+Saladmaker1 started waiting at time: 5.573861
+Saladmaker1 ended waiting at time: 5.576950
+Saladmaker1 started making salad at time: 5.578733
+Saladmaker2 ended waiting at time: 5.582089
+Saladmaker2 started making salad at time: 5.585382
+Saladmaker2 ended making salad at time: 6.590939
+Saladmaker2 started waiting at time: 6.597020
+Saladmaker3 ended making salad at time: 7.571825
+Saladmaker1 ended making salad at time: 7.581228
+Saladmaker3 started waiting at time: 7.579949
+Saladmaker1 started waiting at time: 7.585939
+Saladmaker1 ended waiting at time: 7.587947
+Saladmaker1 started making salad at time: 7.589662
+Saladmaker3 ended waiting at time: 7.597000
+Saladmaker3 started making salad at time: 7.602979
+Saladmaker2 ended waiting at time: 7.613087
+Saladmaker2 started making salad at time: 7.616529
+Saladmaker2 ended making salad at time: 8.621962
+Saladmaker2 started waiting at time: 8.631771
+Saladmaker2 ended waiting at time: 8.636097
+Saladmaker1 ended making salad at time: 9.594352
+Saladmaker1 started waiting at time: 9.603053
+Saladmaker1 ended waiting at time: 9.605122
+Saladmaker3 ended making salad at time: 11.609048
+Saladmaker3 started waiting at time: 11.612515
+Saladmaker3 ended waiting at time: 11.613900
